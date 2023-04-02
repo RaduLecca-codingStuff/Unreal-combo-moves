@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\HardSkillProject.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{690C9959-E3F0-49F0-ADCB-2FF528EC6524}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\HardSkillProject.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\HardSkillProjectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{93EAB621-5CC3-412A-B64E-FA0CF5FB705D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\HardSkillProject">
+      <UniqueIdentifier>{C022B916-E363-4D3D-B61B-D0740D4DA299}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\HardSkillProject\HardSkillProject.Build.cs">
+      <Filter>Source\HardSkillProject</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\HardSkillProject\HardSkillProject.cpp">
+      <Filter>Source\HardSkillProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HardSkillProject\HardSkillProject.h">
+      <Filter>Source\HardSkillProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\HardSkillProject\HardSkillProjectGameModeBase.cpp">
+      <Filter>Source\HardSkillProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HardSkillProject\HardSkillProjectGameModeBase.h">
+      <Filter>Source\HardSkillProject</Filter>
+    </ClInclude>
+    <Filter Include="Source\HardSkillProject\Private">
+      <UniqueIdentifier>{8A625B67-6DEC-41F8-84CE-11AC936DBCD9}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\HardSkillProject\Private\BasePawn.cpp">
+      <Filter>Source\HardSkillProject\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\HardSkillProject\Private\ComboCharacter.cpp">
+      <Filter>Source\HardSkillProject\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\HardSkillProject\Private\ComboDisplay.cpp">
+      <Filter>Source\HardSkillProject\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\HardSkillProject\Private\ComboGameModeBase.cpp">
+      <Filter>Source\HardSkillProject\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\HardSkillProject\Private\ComboGameStateBase.cpp">
+      <Filter>Source\HardSkillProject\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\HardSkillProject\Private\ComboPlayer.cpp">
+      <Filter>Source\HardSkillProject\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\HardSkillProject\Private\RbuyAnimInstance.cpp">
+      <Filter>Source\HardSkillProject\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\HardSkillProject\Public">
+      <UniqueIdentifier>{8CDE3348-0030-45E8-A8AE-1FD3EFB1831F}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\HardSkillProject\Public\BasePawn.h">
+      <Filter>Source\HardSkillProject\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\HardSkillProject\Public\ComboCharacter.h">
+      <Filter>Source\HardSkillProject\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\HardSkillProject\Public\ComboDisplay.h">
+      <Filter>Source\HardSkillProject\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\HardSkillProject\Public\ComboGameModeBase.h">
+      <Filter>Source\HardSkillProject\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\HardSkillProject\Public\ComboGameStateBase.h">
+      <Filter>Source\HardSkillProject\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\HardSkillProject\Public\ComboPlayer.h">
+      <Filter>Source\HardSkillProject\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\HardSkillProject\Public\RbuyAnimInstance.h">
+      <Filter>Source\HardSkillProject\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

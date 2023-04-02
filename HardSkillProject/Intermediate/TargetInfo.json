@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "HardSkillProject",
+			"Path": "C:\\Users\\ldryo\\Documents\\Unreal Projects\\HardSkillProject\\Source\\HardSkillProject.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "HardSkillProjectEditor",
+			"Path": "C:\\Users\\ldryo\\Documents\\Unreal Projects\\HardSkillProject\\Source\\HardSkillProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
