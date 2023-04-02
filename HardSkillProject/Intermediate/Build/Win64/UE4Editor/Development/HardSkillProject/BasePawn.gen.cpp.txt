@@ -1,5 +1,0 @@
-C:\Users\ldryo\Documents\GitHub\Unreal-combo-moves\HardSkillProject\Intermediate\Build\Win64\UE4Editor\Development\HardSkillProject\Definitions.HardSkillProject.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-C:\Users\ldryo\Documents\GitHub\Unreal-combo-moves\HardSkillProject\Source\HardSkillProject/Public/BasePawn.h
-C:\Users\ldryo\Documents\GitHub\Unreal-combo-moves\HardSkillProject\Intermediate\Build\Win64\UE4Editor\Inc\HardSkillProject\BasePawn.generated.h
